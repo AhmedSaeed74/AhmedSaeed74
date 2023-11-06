@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNobHY2aW5mMjNwMzVvZXJ5eTNyd3lpN2tpNzc5eG83YjhtbDZ3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSkKad8MDvSShubszR/giphy.gif" width="40" height="40"/></p>
+<p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNobHY2aW5mMjNwMzVvZXJ5eTNyd3lpN2tpNzc5eG83YjhtbDZ3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSkKad8MDvSShubszR/giphy.gif" width="100" height="100"/></p>
 
 <h2> Hey there! I'm Ahmed.</h2>
 
@@ -8,11 +8,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a communications and electronics fresh graduate who is passionate about Embedded Software.
+I'm a communications and electronics graduate who is passionate about Embedded Software.
 
 - 🎓 &nbsp; I have recently graduated from the Faculty of Engineering at Cairo University.
 - 💼 &nbsp; Working as an Automotive Embedded Software Internship at EUI.
-- 🌱 &nbsp; Learning more about Microcontrollers , Automotive Cyber-Security, Embedded Linux, and AUTOSAR. 
+- 🌱 &nbsp; Learning more about Microcontrollers, Automotive Cyber-Security, Embedded Linux, and AUTOSAR. 
 - 📫   How to reach me: **ahmedsaeed9674@gmail.com**
 
 - 📄 Resume [Check My Experience](https://drive.google.com/file/d/1Wl4gCNfGoOVYbfQeZ3N7B0K5M-vYOsw2/view?usp=sharing)
