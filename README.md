@@ -1,6 +1,6 @@
 
 <p align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNobHY2aW5mMjNwMzVvZXJ5eTNyd3lpN2tpNzc5eG83YjhtbDZ3NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YSkKad8MDvSShubszR/giphy.gif" width="200" height="200"/></p>
-
+ 
 <h2> Hey there! I'm Ahmed.</h2>
 
 <img width="200" align="right" alt="Github" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
