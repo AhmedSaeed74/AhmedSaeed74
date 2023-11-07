@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a communications and electronics graduate who is passionate about Embedded Software.
+I'm a communications and electronics fresh graduate who is passionate about Embedded Software.
 
 - 🎓 &nbsp; I have recently graduated from the Faculty of Engineering at Cairo University.
 - 💼 &nbsp; Working as an Automotive Embedded Software Internship at EUI.
