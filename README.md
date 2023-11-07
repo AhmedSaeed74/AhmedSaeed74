@@ -12,7 +12,7 @@ I'm a communications and electronics fresh graduate who is passionate about Embe
 
 - 🎓 &nbsp;I have recently graduated from the Faculty of Engineering at Cairo University.
 - 💼 &nbsp;Working as an Automotive Embedded Software Internship at EUI.
-- 🌱 &nbsp;Learning more about Microcontrollers , Automotive Cyber-Security, Embedded Linux, and AUTOSAR. 
+- 🌱 &nbsp;Learning more about Microcontrollers, Automotive Cyber-Security, Embedded Linux, and AUTOSAR. 
 - 📫 How to reach me: **ahmedsaeed9674@gmail.com**
 
 - 📄 Resume [Check My Experience]([https://drive.google.com/file/d/1Wl4gCNfGoOVYbfQeZ3N7B0K5M-vYOsw2/view?usp=sharing](https://drive.google.com/file/d/1PdPJuszvyGzPNcN3yZBwAzQrF2oopiwy/view?usp=sharing))
