@@ -10,12 +10,13 @@
 
 I'm a communications and electronics fresh graduate who is passionate about Embedded Software.
 
-- 🎓 &nbsp;I have recently graduated from the Faculty of Engineering at Cairo University.
-- 💼 &nbsp;Working as an Automotive Embedded Software Internship at EUI.
-- 🌱 &nbsp;Learning more about Microcontrollers, Automotive Cyber-Security, Embedded Linux, and AUTOSAR. 
+- 🎓 &nbsp;I graduated from the Faculty of Engineering at Cairo University with a degree in Electronics and Communications Engineering.
+- 💼 &nbsp;Currently, I'm working as an R&D Embedded Software Engineer at EOIP. Previously, I completed an Automotive Embedded Software Internship at EUI, where I gained valuable hands-on experience.
+- 🌱 &nbsp;I have a strong technical background in Embedded C/C++, AUTOSAR, RTOS, and interfacing with microcontrollers such as TM4C123G, STM32F429, and ATmega32. My work includes projects like developing autonomous vehicle systems, security systems, and bootloaders.
+- 🚀 &nbsp;I’ve completed several internships, including at Swift-Act and Si-Vision, and hold certifications like ISTQB Foundation Level. I’m continually learning about embedded systems, software testing, and staying up-to-date with the latest trends in software development.
 - 📫 How to reach me: **ahmedsaeed9674@gmail.com**
 
-- 📄 Resume [Check My Experience](https://drive.google.com/file/d/1PdPJuszvyGzPNcN3yZBwAzQrF2oopiwy/view?usp=sharing)
+- 📄 Resume [Check My Experience](https://drive.google.com/file/d/1XHIU3asn95K5i2HDZp-seAM3zAz2XKZR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
