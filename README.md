@@ -3,7 +3,7 @@
  
 <h2> Hey there! I'm Ahmed.</h2>
 
-<img width="200" align="right" alt="Github" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+<img width="200" align="right" alt="Github" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" style="margin-left: 2cm;" />
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
