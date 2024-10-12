@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-I'm a communications and electronics fresh graduate who is passionate about Embedded Software.
+I am an Electronics and Communications Engineer, passionate about Embedded Software development.
 
 - 🎓 &nbsp;I graduated from the Faculty of Engineering at Cairo University with a degree in Electronics and Communications Engineering.
 - 💼 &nbsp;Currently, I'm working as an R&D Embedded Software Engineer at EOIP. Previously, I completed an Automotive Embedded Software Internship at EUI, where I gained valuable hands-on experience.
@@ -33,7 +33,6 @@ I'm a communications and electronics fresh graduate who is passionate about Embe
   <a href="https://www.w3schools.com/python/default.asp" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://linuxjourney.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://carla.org/" target="_blank" rel="noreferrer"> <img src="https://archive.org/services/img/github.com-carla-simulator-carla_-_2017-11-18_19-32-41" alt="express" width="40" height="40"/> 
   <a href="https://www.circuitstoday.com/avr-microcontroller-tutorial" target="_blank" rel="noreferrer"> <img src="https://www.watelectronics.com/wp-content/uploads/AVR-Microcontroller.jpg" alt="AVR" width="40" height="40"/> </a>
   <a href="https://www.newbiehack.com/categories/newbiehack-ARM-tutorial" target="_blank" rel="noreferrer"> <img src="https://www.ti.com/diagrams/mspkeil_keil_rgb_2015_special.jpg" alt="ARM" width="40" height="40"/> </a> 
   <a href="https://www.freertos.org/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FreeRTOS_logo_2005.svg/357px-FreeRTOS_logo_2005.svg.png?20170827135614" alt="RTOS" width="40" height="40"/> </a> 
